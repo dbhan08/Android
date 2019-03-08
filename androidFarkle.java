@@ -1,5 +1,5 @@
 /*
-The following code, is the code of an android farkle gae. Where you roll 6 dice which can be scored
+The following code, is the code of an android farkle game. Where you roll 6 dice which can be scored
 in various ways, and you can stop the round and add to your total score.
 By:Deyvik Bhan
 Date:2/20/19
